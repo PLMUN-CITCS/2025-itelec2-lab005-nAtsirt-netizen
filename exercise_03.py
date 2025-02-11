@@ -1,5 +1,5 @@
 a = 10
-b = 5e
+b = 5
 c = 3
 
 result1 = a + b * c
